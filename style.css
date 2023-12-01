@@ -1,7 +1,19 @@
 html {
     font-family: 'Montserrat', sans-serif;
 }
+
 body {
     margin: 0;
     color:aqua;
+}
+
+header {
+    background-color: forestgreen;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+header h1 {
+    font-size: 3rem;
+    text-align: center;
 }
