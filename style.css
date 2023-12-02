@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    color:aqua;
+    color:black;
 }
 
 header {
@@ -16,4 +16,44 @@ header {
 header h1 {
     font-size: 3rem;
     text-align: center;
+}
+
+img {               /*center image*/
+    display: block;
+    margin:auto;
+}
+
+h2 {
+    font-size: 2rem;
+    color:forestgreen;
+    text-align: center;
+}
+
+ul.circle {
+    font-size: 1rem;
+    list-style-type:square;
+}
+
+footer {
+    background-color: forestgreen;
+    color:white;
+    padding: 3rem;
+}
+
+footer section {
+    float: right;
+}
+
+footer p {
+    margin:0;
+}
+
+footer a {
+    color:white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color:cornflowerblue;
+    
 }
