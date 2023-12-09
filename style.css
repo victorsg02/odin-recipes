@@ -1,4 +1,4 @@
-html {
+html {  /*pagina principal*/
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -7,7 +7,7 @@ body {
     color:black;
 }
 
-header {
+header {    /*Creating the header*/
     background-color: forestgreen;
     color: white;
     padding: 3rem 2rem;
@@ -29,12 +29,12 @@ h2 {
     text-align: center;
 }
 
-ul.circle {
+ul.circle { /* style unordered list*/
     font-size: 1rem;
     list-style-type:square;
 }
 
-footer {
+footer { /*creating and adding style to the footer*/
     background-color: forestgreen;
     color:white;
     padding: 3rem;
